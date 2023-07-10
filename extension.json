@@ -1,0 +1,14 @@
+{
+    "builtin": "False",
+    "default_enabled": "True",
+    "type": "extension",
+    "rocket_mode_compatible": "False",
+    "name": "HL",
+    "description": "Extensions for Hung",
+    "author": "Hung Le",
+    "author_profile": "https://github.com/hungle8learn",
+    "url": "https://github.com/hungle8learn/HL-RevitApi.git",
+    "website": "",
+    "image": "",
+    "dependencies": []
+}
